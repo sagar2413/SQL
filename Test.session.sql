@@ -1,0 +1,1 @@
+Select account_number, account_status from account_master;

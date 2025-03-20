@@ -3,5 +3,17 @@
         "configurations": [],
         "compounds": []
     },
-    "git.decorations.enabled": true
+    "git.decorations.enabled": true,
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "Test",
+            "database": "bank",
+            "username": "postgres",
+            "password": "postgres"
+        }
+    ]
 }
